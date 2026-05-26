@@ -13,7 +13,7 @@ from iblocklist2ipset import get_version
 
 REQUIREMENTS = (
     "netaddr==0.7.12",
-    "requests==2.3.0",
+    "requests>=2.34.2",
     "docopt==0.6.2",
     "six==1.7.3"
 )
